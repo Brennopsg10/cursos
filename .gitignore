@@ -1,0 +1,4 @@
+vendor/
+.idea/
+db.sqlite
+ide-config
